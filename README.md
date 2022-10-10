@@ -11,7 +11,7 @@
 </p>
 
 <h3>Data Analysis Tool</h3>
-<p>Microsoft Excel was used for the analysing this dataset.</p> 
+<p>Microsoft Excel was used for analysing this dataset.</p> 
 
 <h3>Data Cleaning</h3>
 <p>The following data cleaning steps were observed:</p> 
