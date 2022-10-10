@@ -1,5 +1,4 @@
 <h1 align="center">Data Analysis on Bike Buyers Dataset</h1>
-<h2 align="center">Adams Shittu</h2> 
 <h4 align="center">08-10-2022</h4> 
 
 <h3>Business Task</h3> 
